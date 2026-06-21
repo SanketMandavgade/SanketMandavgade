@@ -3,8 +3,8 @@
 M.Tech CSE | Software Engineer
 
 🚀 Python | FastAPI | Neo4j | Knowledge Graphs |
-🤖 LLMs | Agentic AI | GenAI Applications |
-🌐 Next.js | React | PostgreSQL
+ LLMs | Agentic AI | GenAI Applications |
+ Node.js | Next.js | React | PostgreSQL
 
 Currently:
 - Building AI-powered applications
@@ -12,8 +12,8 @@ Currently:
 - Developing Knowledge Graph-based solutions
 
 ## Tech Stack
-Python, FastAPI, Django, Neo4j, PostgreSQL,
-React, Next.js, Docker, AWS, Git
+Python, FastAPI, Django, Neo4j, MySQL, PostgreSQL,
+Node.js, REST API, Next.js, Docker, AWS, Git
 
 ## Contact
 LinkedIn: <www.linkedin.com/in/sanket-mandavgade>
