@@ -2,8 +2,8 @@
 
 M.Tech CSE | Software Engineer
 
-🚀 Python | FastAPI | Neo4j | Knowledge Graphs
-🤖 LLMs | Agentic AI | GenAI Applications
+🚀 Python | FastAPI | Neo4j | Knowledge Graphs |
+🤖 LLMs | Agentic AI | GenAI Applications |
 🌐 Next.js | React | PostgreSQL
 
 Currently:
